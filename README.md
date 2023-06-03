@@ -2,6 +2,8 @@ Applying classes directly to a React component provides no type safety by defaul
 
 ## The Development Experience
 
+Read this in blog form: <https://dev.to/timwjames/type-safe-tailwind-and-scss-modules-20mj>
+
 ### Tailwind CSS
 
 Instead of using a class name directly, this works by using a custom utility function. For example:
